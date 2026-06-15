@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-14T19:57:30.955922+00:00",
+  "generated_at": "2026-06-15T05:27:32.230873+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
+    {
+      "title": "Spellweaver",
+      "slug": "spellweaver",
+      "url": "https://jazhikho.itch.io/spellweaver",
+      "description": "Grid-based labyrinth RPG: weave custom spells from impossible glyphs and escape before your magic unravels.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3ODcyNTk0LnBuZw==/315x250%23c/Yaxih9.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Role Playing , Adventure",
+      "made_with": [
+        "Defold"
+      ],
+      "tags": [
+        "1g1w",
+        "2D",
+        "Action RPG",
+        "defold",
+        "Prototype",
+        "Retro",
+        "Top Down Adventure"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
     {
       "title": "Panda3D Prototypes",
       "slug": "panda3d-prototypes",

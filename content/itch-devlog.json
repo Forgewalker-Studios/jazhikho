@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-14T19:57:30.955405+00:00",
+  "generated_at": "2026-06-15T05:27:32.230337+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
+    {
+      "title": "Spellweaver",
+      "slug": "spellweaver",
+      "url": "https://jazhikho.itch.io/spellweaver",
+      "description": "Grid-based labyrinth RPG: weave custom spells from impossible glyphs and escape before your magic unravels.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3ODcyNTk0LnBuZw==/315x250%23c/Yaxih9.png",
+      "feed_url": "https://jazhikho.itch.io/spellweaver/devlog.rss"
+    },
     {
       "title": "Panda3D Prototypes",
       "slug": "panda3d-prototypes",
@@ -109,6 +117,15 @@
   ],
   "items": [
     {
+      "project_title": "Spellweaver",
+      "project_slug": "spellweaver",
+      "project_url": "https://jazhikho.itch.io/spellweaver",
+      "title": "So... what's up with this game?",
+      "link": "https://jazhikho.itch.io/spellweaver/devlog/1553960/so-whats-up-with-this-game",
+      "published_at": "2026-06-14T20:42:53+00:00",
+      "summary": "Spellweaver was a small game I made using Defold. The intent here was to learn the Defold engine a bit and how to use it, as I have other work I am doing with the engine. The..."
+    },
+    {
       "project_title": "Around the Bend",
       "project_slug": "around-the-bend",
       "project_url": "https://jazhikho.itch.io/around-the-bend",
@@ -206,15 +223,6 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1456772/v05-release",
       "published_at": "2026-03-13T15:36:28+00:00",
       "summary": "I\u2019m not sure what happened to the v0.4 version, but it was never released anywhere. I decided not to make a big deal about it and just go ahead and release 0.5 instead. This..."
-    },
-    {
-      "project_title": "Loot, Luck & Liability",
-      "project_slug": "loot-luck-liability",
-      "project_url": "https://jazhikho.itch.io/loot-luck-liability",
-      "title": "New Game! Announcing Loot, Luck, and Liability!",
-      "link": "https://jazhikho.itch.io/loot-luck-liability/devlog/1453882/new-game-announcing-loot-luck-and-liability",
-      "published_at": "2026-03-10T03:39:44+00:00",
-      "summary": "Announcing the release of Loot, Luck & Liability. This is a silly game that I made ~48 hours for St. Paddy\u2019s Roguelite Game Jam. Based on feedback, I will be updating this game..."
     }
   ]
 }
