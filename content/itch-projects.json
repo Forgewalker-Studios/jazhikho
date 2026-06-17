@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:04:08.532757+00:00",
+  "generated_at": "2026-06-17T20:29:48.540700+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -83,6 +83,31 @@
       ],
       "updated_at": "",
       "updated_text": ""
+    },
+    {
+      "title": "Around the Bend",
+      "slug": "around-the-bend",
+      "url": "https://jazhikho.itch.io/around-the-bend",
+      "description": "Paddle down the River Feral. Who do you trust? Are you ready to make it on your own?",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MzIwNjYzLnBuZw==/315x250%23c/OSX%2F%2BU.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Adventure",
+      "made_with": [
+        "bitsy"
+      ],
+      "tags": [
+        "Bitsy",
+        "Comedy",
+        "Multiple Endings",
+        "Narrative",
+        "No AI",
+        "Pixel Art",
+        "Singleplayer"
+      ],
+      "ai_disclosure": [],
+      "updated_at": "2026-05-24T17:14:00+00:00",
+      "updated_text": "24 May 2026 @ 17:14 UTC 24 days ago"
     },
     {
       "title": "StarGen",
