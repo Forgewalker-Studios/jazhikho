@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T20:02:43.155027+00:00",
+  "generated_at": "2026-06-20T04:40:41.326993+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -108,36 +108,6 @@
       "ai_disclosure": [],
       "updated_at": "2026-05-24T17:14:00+00:00",
       "updated_text": "24 May 2026 @ 17:14 UTC 26 days ago"
-    },
-    {
-      "title": "StarGen",
-      "slug": "stargen",
-      "url": "https://jazhikho.itch.io/stargen",
-      "description": "Procedurally generated galaxy for automated worldbuilding",
-      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
-      "status": "In development",
-      "category": "Tool",
-      "genre": "",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Generator",
-        "Godot",
-        "Procedural Generation",
-        "Sci-fi",
-        "Space",
-        "Space Sim",
-        "world-building",
-        "worldbuilding"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
     },
     {
       "title": "Project Harvest",
@@ -283,35 +253,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
