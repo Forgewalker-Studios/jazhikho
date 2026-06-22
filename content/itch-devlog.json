@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-06-22T12:25:05.969844+00:00",
+  "generated_at": "2026-06-22T21:12:54.694822+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
+    {
+      "title": "Project Clanker",
+      "slug": "project-clanker",
+      "url": "https://jazhikho.itch.io/project-clanker",
+      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
+      "feed_url": "https://jazhikho.itch.io/project-clanker/devlog.rss"
+    },
     {
       "title": "Spellweaver",
       "slug": "spellweaver",
