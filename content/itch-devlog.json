@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:49:35.500924+00:00",
+  "generated_at": "2026-06-28T09:32:12.609129+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -7,7 +7,7 @@
       "slug": "signal-rift",
       "url": "https://jazhikho.itch.io/signal-rift",
       "description": "Patrol the Cyrannus system, upgrade your ship, and hunt pirate signals amongst false echoes.",
-      "cover_image": "",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MTU1NDc3LnBuZw==/315x250%23c/Fj89w1.png",
       "feed_url": "https://jazhikho.itch.io/signal-rift/devlog.rss"
     },
     {
