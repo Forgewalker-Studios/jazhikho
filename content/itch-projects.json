@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-27T19:43:36.836872+00:00",
+  "generated_at": "2026-06-28T04:49:35.501445+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
+    {
+      "title": "Signal Rift",
+      "slug": "signal-rift",
+      "url": "https://jazhikho.itch.io/signal-rift",
+      "description": "Patrol the Cyrannus system, upgrade your ship, and hunt pirate signals amongst false echoes.",
+      "cover_image": "",
+      "status": "Released",
+      "category": "",
+      "genre": "Shooter",
+      "made_with": [],
+      "tags": [
+        "2D",
+        "Arcade",
+        "Exploration",
+        "Sci-fi",
+        "Singleplayer",
+        "Space",
+        "Space Sim",
+        "storygame",
+        "Top down shooter",
+        "upgrades"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
     {
       "title": "Project Clanker",
       "slug": "project-clanker",
