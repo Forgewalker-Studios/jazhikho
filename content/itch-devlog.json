@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-03T14:31:34.052632+00:00",
+  "generated_at": "2026-07-04T04:00:42.792655+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
+    {
+      "title": "What We Left There",
+      "slug": "what-we-left-there",
+      "url": "https://jazhikho.itch.io/what-we-left-there",
+      "description": "After a transport crash on a frontier world, Jack and Iria are forced to rebuild something that broke under pressure.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3NzMxMDAzLnBuZw==/315x250%23c/m%2FP7vW.png",
+      "feed_url": "https://jazhikho.itch.io/what-we-left-there/devlog.rss"
+    },
     {
       "title": "Signal Rift",
       "slug": "signal-rift",
