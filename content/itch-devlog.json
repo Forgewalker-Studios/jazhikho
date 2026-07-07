@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-07-07T15:14:28.984258+00:00",
+  "generated_at": "2026-07-07T20:15:27.093819+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
+    {
+      "title": "Asteroid Breaker Prototype",
+      "slug": "asteroid-breaker-prototype",
+      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
+      "description": "A prototype of an asteroid breaker game",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
+      "feed_url": "https://jazhikho.itch.io/asteroid-breaker-prototype/devlog.rss"
+    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
