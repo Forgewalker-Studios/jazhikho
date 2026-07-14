@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:32:30.607000+00:00",
+  "generated_at": "2026-07-14T08:27:30.979438+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -43,7 +43,7 @@
         "Text"
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 4 days ago"
+      "updated_text": "09 July 2026 @ 06:13 UTC 5 days ago"
     },
     {
       "title": "Signal Rift",
@@ -78,36 +78,6 @@
       ],
       "updated_at": "2026-06-29T23:50:00+00:00",
       "updated_text": "29 June 2026 @ 23:50 UTC 14 days ago"
-    },
-    {
-      "title": "Project Clanker",
-      "slug": "project-clanker",
-      "url": "https://jazhikho.itch.io/project-clanker",
-      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Platformer",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Horror",
-        "Indie",
-        "Metroidvania",
-        "Multiple Endings",
-        "Narrative"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "2026-06-28T21:59:00+00:00",
-      "updated_text": "28 June 2026 @ 21:59 UTC 15 days ago"
     },
     {
       "title": "Spellweaver",
@@ -160,38 +130,6 @@
       "updated_text": ""
     },
     {
-      "title": "Untitled Map Game",
-      "slug": "untitled-map-game",
-      "url": "https://jazhikho.itch.io/untitled-map-game",
-      "description": "Chart a world tile by tile before HQ runs out of supplies and morale. Dispatch teams, manage a frontier, and survive.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3NDMzODA5LnBuZw==/315x250%23c/xJz3sw.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Simulation , Strategy",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "Casual",
-        "Exploration",
-        "Godot",
-        "Management",
-        "Procedural Generation",
-        "Tilemap",
-        "Top-Down",
-        "Turn-based Strategy"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Around the Bend",
       "slug": "around-the-bend",
       "url": "https://jazhikho.itch.io/around-the-bend",
@@ -213,36 +151,6 @@
         "Singleplayer"
       ],
       "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "StarGen",
-      "slug": "stargen",
-      "url": "https://jazhikho.itch.io/stargen",
-      "description": "Procedurally generated galaxy for automated worldbuilding",
-      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
-      "status": "In development",
-      "category": "Tool",
-      "genre": "",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Generator",
-        "Godot",
-        "Procedural Generation",
-        "Sci-fi",
-        "Space",
-        "Space Sim",
-        "world-building",
-        "worldbuilding"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
       "updated_at": "",
       "updated_text": ""
     },
@@ -333,33 +241,6 @@
         "Code",
         "Sounds",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Relationship Overhead Tool",
-      "slug": "relationship-overhead-tool",
-      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
-      "description": "A relationship simulation sandbox for measuring complexity overhead.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
-      "status": "Released",
-      "category": "Tool",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "drama",
-        "game-development",
-        "Narrative",
-        "relationships",
-        "Sandbox",
-        "storytelling",
-        "systems",
-        "tool"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
