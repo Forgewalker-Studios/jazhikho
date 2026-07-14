@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:12:57.808131+00:00",
+  "generated_at": "2026-07-14T19:42:05.857232+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -44,70 +44,6 @@
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
       "updated_text": "09 July 2026 @ 06:13 UTC 5 days ago"
-    },
-    {
-      "title": "Signal Rift",
-      "slug": "signal-rift",
-      "url": "https://jazhikho.itch.io/signal-rift",
-      "description": "Patrol the Cyrannus system, upgrade your ship, and hunt pirate signals amongst false echoes.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MTU1NDc3LnBuZw==/315x250%23c/Fj89w1.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Shooter",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Arcade",
-        "Exploration",
-        "Sci-fi",
-        "Singleplayer",
-        "Space",
-        "Space Sim",
-        "storygame",
-        "Top down shooter",
-        "upgrades"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "2026-06-29T23:50:00+00:00",
-      "updated_text": "29 June 2026 @ 23:50 UTC 14 days ago"
-    },
-    {
-      "title": "Project Clanker",
-      "slug": "project-clanker",
-      "url": "https://jazhikho.itch.io/project-clanker",
-      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Platformer",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Horror",
-        "Indie",
-        "Metroidvania",
-        "Multiple Endings",
-        "Narrative"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "2026-06-28T21:59:00+00:00",
-      "updated_text": "28 June 2026 @ 21:59 UTC 15 days ago"
     },
     {
       "title": "Spellweaver",
@@ -280,33 +216,6 @@
       "updated_text": ""
     },
     {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
-      "tags": [
-        "AI Generated",
-        "Casual",
-        "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Spud-Gotchi",
       "slug": "spud-gotchi",
       "url": "https://jazhikho.itch.io/spud-gotchi",
@@ -331,92 +240,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Relationship Overhead Tool",
-      "slug": "relationship-overhead-tool",
-      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
-      "description": "A relationship simulation sandbox for measuring complexity overhead.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
-      "status": "Released",
-      "category": "Tool",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "drama",
-        "game-development",
-        "Narrative",
-        "relationships",
-        "Sandbox",
-        "storytelling",
-        "systems",
-        "tool"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Private Eye Pierce & The Ink Spill",
-      "slug": "private-eye-pierce-the-ink-spill",
-      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
-      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
-      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Unity",
-        "Aseprite"
-      ],
-      "tags": [
-        "2D",
-        "Atmospheric",
-        "Black and White",
-        "Casual",
-        "Comedy",
-        "Mouse only",
-        "Noir",
-        "Point & Click"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
         "Sounds",
         "Text"
       ],
@@ -472,31 +295,6 @@
         "Godot",
         "library",
         "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "WinterIsComing",
-      "slug": "winteriscoming",
-      "url": "https://jazhikho.itch.io/winteriscoming",
-      "description": "A frozen dragon statue abandoned in a snowy drift",
-      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender"
-      ],
-      "tags": [
-        "3D",
-        "Blender",
-        "Dragons",
-        "Fantasy",
-        "Modeling",
-        "Models",
         "No AI"
       ],
       "ai_disclosure": [],
