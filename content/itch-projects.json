@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-07-19T03:53:48.713029+00:00",
+  "generated_at": "2026-07-19T08:32:39.084793+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
-    {
-      "title": "Asteroid Breaker Prototype",
-      "slug": "asteroid-breaker-prototype",
-      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
-      "description": "A prototype of an asteroid breaker game",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "Asteroids",
-        "Prototype",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
@@ -43,7 +20,7 @@
         "Text"
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 9 days ago"
+      "updated_text": "09 July 2026 @ 06:13 UTC 10 days ago"
     },
     {
       "title": "Signal Rift",
@@ -280,33 +257,6 @@
       "updated_text": ""
     },
     {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
-      "tags": [
-        "AI Generated",
-        "Casual",
-        "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Spud-Gotchi",
       "slug": "spud-gotchi",
       "url": "https://jazhikho.itch.io/spud-gotchi",
@@ -390,35 +340,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
