@@ -367,7 +367,7 @@
     }
   ],
   "research": {
-    "intro": "A lot of my research interests show up through systems experiments, reflective design questions, and procedural-development work that makes its way into public prototypes and releases.",
+    "intro": "My research work centers on relationship systems, reflective play, procedural authoring tools, and game projects that connect implementation with design analysis.",
     "themes": [
       "Using procedural worldbuilding as a repeatable design and production tool.",
       "Building systems-driven structures that still stay readable to players and collaborators.",
@@ -375,7 +375,64 @@
       "Treating implementation and analysis as part of the same development practice.",
       "Thinking carefully about AI-assisted workflows, provenance, bounded use, and accountability."
     ],
-    "entries": [],
+    "entries": [
+      {
+        "title": "Beyond Affection Meters: A Framework for Relationship Repair Mechanics and Meaningful Play",
+        "description": "Master of Arts in Game Design thesis published through Lindenwood Digital Commons, developing a repair-centered framework for relationship mechanics in narrative games.",
+        "link": {
+          "label": "Read thesis",
+          "url": "https://digitalcommons.lindenwood.edu/theses/1804/"
+        }
+      },
+      {
+        "title": "StarGen - A Procedurally Generated Galaxy for Automated World Building",
+        "description": "Game Design submission documenting StarGen as a procedural galaxy and star-system authoring tool with seeded generation, inspectors, and reusable outputs.",
+        "link": {
+          "label": "View Digital Commons record",
+          "url": "https://digitalcommons.lindenwood.edu/game_design/41/"
+        }
+      },
+      {
+        "title": "Project Harvest",
+        "description": "Game Design submission for a psychological-horror roguelite exploring player-avatar responsibility, repetition, identity, and reflective play.",
+        "link": {
+          "label": "View Digital Commons record",
+          "url": "https://digitalcommons.lindenwood.edu/game_design/32/"
+        }
+      },
+      {
+        "title": "Private Eye Pierce & The Ink Spill",
+        "description": "Co-authored Game Design submission for a comic-noir point-and-click narrative adventure focused on atmosphere, character, and story-driven puzzles.",
+        "link": {
+          "label": "View Digital Commons record",
+          "url": "https://digitalcommons.lindenwood.edu/game_design/42/"
+        }
+      },
+      {
+        "title": "Project Harvest - 2026 Student Academic Showcase",
+        "description": "Oral presentation record from Lindenwood's 2026 Student Academic Showcase.",
+        "link": {
+          "label": "View showcase record",
+          "url": "https://digitalcommons.lindenwood.edu/src_2026/oral_presentation/1/22/"
+        }
+      },
+      {
+        "title": "Private Eye Pierce & The Ink Spill - 2026 Student Academic Showcase",
+        "description": "Co-presented oral presentation record from Lindenwood's 2026 Student Academic Showcase.",
+        "link": {
+          "label": "View showcase record",
+          "url": "https://digitalcommons.lindenwood.edu/src_2026/oral_presentation/1/23/"
+        }
+      },
+      {
+        "title": "Project Harvest - St. Louis Digital Humanities Event Program",
+        "description": "Program listing for a public Project Harvest presentation in the St. Louis Digital Humanities event program.",
+        "link": {
+          "label": "View event program",
+          "url": "https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1000&context=stl_dig_hum_2026"
+        }
+      }
+    ],
     "emptyState": {
       "title": "Right now, the research side of my work is mostly represented through projects and prototypes.",
       "body": "Formal talks, papers, and publications can be added here as more of that work becomes public."

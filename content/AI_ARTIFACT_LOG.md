@@ -16,6 +16,20 @@
 
 Use this document to record future revisions to significant AI-assisted artifacts in the repository.
 
+## Lindenwood Research Records Update
+
+| Field | Value |
+| --- | --- |
+| Date | 2026-07-20 |
+| Model / tool used | Codex (GPT-5-based coding agent), web search |
+| Task purpose | Add confirmed public Lindenwood Digital Commons research and presentation records to the portfolio research section |
+| Input materials used | User-provided author/publication context, Lindenwood Digital Commons records for thesis, Game Design submissions, Student Academic Showcase oral presentations, and St. Louis Digital Humanities event program |
+| What AI produced | Updated `content/site-data.json`, `README.md`, `VERSION.md`, and `content/AI_ARTIFACT_LOG.md` |
+| What the user accepted | Pending user review |
+| What the user rejected | None recorded yet |
+| What the user changed | User confirmed the public Digital Commons author name and requested the found research be added to the website |
+| Final approval | Pending |
+
 ## Portfolio Project Grid Follow-Up
 
 | Field | Value |

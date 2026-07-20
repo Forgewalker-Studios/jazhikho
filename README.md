@@ -186,7 +186,7 @@ Then visit `http://localhost:8000/`.
 
 - The site intentionally excludes legal name, phone number, street address, private email, and private resume details.
 - Public project text should stay grounded in public-safe source material only.
-- The current research section is intentionally conservative and shows an empty-state message until there are public-safe talks or publications to add.
+- The research section includes public-safe Lindenwood Digital Commons records and should only be expanded with confirmed public URLs.
 - `og:image` is already set, but if you later know the final production URL you may also want to add `og:url` and a canonical tag in [index.html](/D:/Website/index.html).
 - The latest-news section is generated from local JSON. If it looks stale, run the sync workflow or the local Python sync scripts.
 - If the Patreon feed stops updating, the most likely cause is an expired creator access token in the repository secrets.
@@ -196,7 +196,7 @@ Then visit `http://localhost:8000/`.
 Update these later if public-safe information becomes available:
 
 - Add public GitHub link if one should be shown on the site.
-- Add talks, papers, showcases, or academic outputs with public URLs.
+- Add more talks, papers, showcases, or academic outputs only when public URLs are confirmed.
 - Add education only if the exact school and date are confirmed as public-safe for this portfolio.
 - Swap in preferred project thumbnails if you want something other than the current public capture images.
 - Review project descriptions whenever public release pages change.
