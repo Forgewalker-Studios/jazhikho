@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:43:57.197971+00:00",
+  "generated_at": "2026-07-21T08:43:46.957388+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -24,26 +24,6 @@
       ],
       "updated_at": "",
       "updated_text": ""
-    },
-    {
-      "title": "What We Left There",
-      "slug": "what-we-left-there",
-      "url": "https://jazhikho.itch.io/what-we-left-there",
-      "description": "After a transport crash on a frontier world, Jack and Iria are forced to rebuild something that broke under pressure.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3NzMxMDAzLnBuZw==/315x250%23c/m%2FP7vW.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Visual Novel",
-      "made_with": [],
-      "tags": [],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Text"
-      ],
-      "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 11 days ago"
     },
     {
       "title": "Signal Rift",
@@ -80,36 +60,6 @@
       "updated_text": "29 June 2026 @ 23:50 UTC 21 days ago"
     },
     {
-      "title": "Project Clanker",
-      "slug": "project-clanker",
-      "url": "https://jazhikho.itch.io/project-clanker",
-      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Platformer",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Horror",
-        "Indie",
-        "Metroidvania",
-        "Multiple Endings",
-        "Narrative"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "2026-06-28T21:59:00+00:00",
-      "updated_text": "28 June 2026 @ 21:59 UTC 22 days ago"
-    },
-    {
       "title": "Spellweaver",
       "slug": "spellweaver",
       "url": "https://jazhikho.itch.io/spellweaver",
@@ -135,26 +85,6 @@
         "Code",
         "Graphics",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Panda3D Prototypes",
-      "slug": "panda3d-prototypes",
-      "url": "https://jazhikho.itch.io/panda3d-prototypes",
-      "description": "Two prototype projects made with panda3d",
-      "cover_image": "",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [],
-      "tags": [
-        "Prototype"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
