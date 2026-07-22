@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:43:40.262474+00:00",
+  "generated_at": "2026-07-22T14:21:31.870760+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -108,36 +108,6 @@
       ],
       "updated_at": "2026-06-28T21:59:00+00:00",
       "updated_text": "28 June 2026 @ 21:59 UTC 23 days ago"
-    },
-    {
-      "title": "Spellweaver",
-      "slug": "spellweaver",
-      "url": "https://jazhikho.itch.io/spellweaver",
-      "description": "Grid-based labyrinth RPG: weave custom spells from impossible glyphs and escape before your magic unravels.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3ODcyNTk0LnBuZw==/315x250%23c/Yaxih9.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Role Playing , Adventure",
-      "made_with": [
-        "Defold"
-      ],
-      "tags": [
-        "1g1w",
-        "2D",
-        "Action RPG",
-        "defold",
-        "Prototype",
-        "Retro",
-        "Top Down Adventure"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
     },
     {
       "title": "Panda3D Prototypes",
@@ -270,33 +240,6 @@
         "Roguelite",
         "Story Rich",
         "Walking simulator"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
-      "tags": [
-        "AI Generated",
-        "Casual",
-        "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
       ],
       "ai_disclosure": [
         "AI Assisted",
