@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:21:31.870232+00:00",
+  "generated_at": "2026-07-22T19:42:28.341618+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -149,6 +149,33 @@
   ],
   "items": [
     {
+      "project_title": "Signal Rift",
+      "project_slug": "signal-rift",
+      "project_url": "https://jazhikho.itch.io/signal-rift",
+      "title": "Signal Rift Post Mortem",
+      "link": "https://jazhikho.itch.io/signal-rift/devlog/1567191/signal-rift-post-mortem",
+      "published_at": "2026-06-28T16:06:02+00:00",
+      "summary": "**Signal Rift \u2014 Postmortem ** *A 2D arcade space shooter built in Godot in about a week. Honest notes on jam DNA, scope, AI, assets, and why planning beat vibes. * **Where it..."
+    },
+    {
+      "project_title": "Project Clanker",
+      "project_slug": "project-clanker",
+      "project_url": "https://jazhikho.itch.io/project-clanker",
+      "title": "Postmortem: Am I Doing This Right?",
+      "link": "https://jazhikho.itch.io/project-clanker/devlog/1562535/postmortem-am-i-doing-this-right",
+      "published_at": "2026-06-24T16:31:13+00:00",
+      "summary": "The Door Remembers, or Project Clanker as it was called during development, is my submission for Week 6 of One Game A Week, hosted by ForgeWalker Studios; first, I would like to..."
+    },
+    {
+      "project_title": "Spellweaver",
+      "project_slug": "spellweaver",
+      "project_url": "https://jazhikho.itch.io/spellweaver",
+      "title": "So... what's up with this game?",
+      "link": "https://jazhikho.itch.io/spellweaver/devlog/1553960/so-whats-up-with-this-game",
+      "published_at": "2026-06-14T20:42:53+00:00",
+      "summary": "Spellweaver was a small game I made using Defold. The intent here was to learn the Defold engine a bit and how to use it, as I have other work I am doing with the engine. The..."
+    },
+    {
       "project_title": "Around the Bend",
       "project_slug": "around-the-bend",
       "project_url": "https://jazhikho.itch.io/around-the-bend",
@@ -228,33 +255,6 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1456772/v05-release",
       "published_at": "2026-03-13T15:36:28+00:00",
       "summary": "I\u2019m not sure what happened to the v0.4 version, but it was never released anywhere. I decided not to make a big deal about it and just go ahead and release 0.5 instead. This..."
-    },
-    {
-      "project_title": "Loot, Luck & Liability",
-      "project_slug": "loot-luck-liability",
-      "project_url": "https://jazhikho.itch.io/loot-luck-liability",
-      "title": "New Game! Announcing Loot, Luck, and Liability!",
-      "link": "https://jazhikho.itch.io/loot-luck-liability/devlog/1453882/new-game-announcing-loot-luck-and-liability",
-      "published_at": "2026-03-10T03:39:44+00:00",
-      "summary": "Announcing the release of Loot, Luck & Liability. This is a silly game that I made ~48 hours for St. Paddy\u2019s Roguelite Game Jam. Based on feedback, I will be updating this game..."
-    },
-    {
-      "project_title": "Project Harvest",
-      "project_slug": "project-harvest",
-      "project_url": "https://jazhikho.itch.io/project-harvest",
-      "title": "1.6 Release! (And why it's not 2.0)",
-      "link": "https://jazhikho.itch.io/project-harvest/devlog/1452274/16-release-and-why-its-not-20",
-      "published_at": "2026-03-08T15:00:54+00:00",
-      "summary": "So, I pushed what I think will be the Final release (for now) of this game. And it\u2019s a 1.6 release, not a 2.0 release. I didn\u2019t end up changing the game play despite wanting to..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "StarGen v0.3.0",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1450586/stargen-v030",
-      "published_at": "2026-03-06T20:27:49+00:00",
-      "summary": "StarGen 0.3.0 release! I\u2019ve added a few new features, like the ability to create celestial objects and systems directly. The program has been refactored in C#, which should..."
     }
   ]
 }
