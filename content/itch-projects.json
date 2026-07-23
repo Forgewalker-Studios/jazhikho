@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:43:48.170032+00:00",
+  "generated_at": "2026-07-23T14:30:44.074521+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -420,61 +420,6 @@
         "Sounds",
         "Text"
       ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Manual Override",
-      "slug": "manual-override",
-      "url": "https://jazhikho.itch.io/manual-override",
-      "description": "This is what happens when you start trusting AI.",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MTE1MjI3LnBuZw==/315x250%23c/fG%2B4lR.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [
-        "GDevelop"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "Casual",
-        "Experimental",
-        "Mouse only",
-        "Point & Click",
-        "Sci-fi"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Sample Pack - Low Poly Library Assets",
-      "slug": "low-poly-library-assets",
-      "url": "https://jazhikho.itch.io/low-poly-library-assets",
-      "description": "\u200bA sample pack of four low-poly library assets",
-      "cover_image": "https://img.itch.zone/aW1nLzI2NjkxNjY4LnBuZw==/315x250%23c/w1jzIX.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender",
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Asset Pack",
-        "furniture",
-        "Godot",
-        "library",
-        "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
