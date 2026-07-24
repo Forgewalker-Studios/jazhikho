@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:45:20.793728+00:00",
+  "generated_at": "2026-07-24T03:42:47.925902+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -24,6 +24,26 @@
       ],
       "updated_at": "",
       "updated_text": ""
+    },
+    {
+      "title": "What We Left There",
+      "slug": "what-we-left-there",
+      "url": "https://jazhikho.itch.io/what-we-left-there",
+      "description": "After a transport crash on a frontier world, Jack and Iria are forced to rebuild something that broke under pressure.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3NzMxMDAzLnBuZw==/315x250%23c/m%2FP7vW.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Visual Novel",
+      "made_with": [],
+      "tags": [],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Text"
+      ],
+      "updated_at": "2026-07-09T06:13:00+00:00",
+      "updated_text": "09 July 2026 @ 06:13 UTC 14 days ago"
     },
     {
       "title": "Signal Rift",
@@ -57,7 +77,7 @@
         "Text"
       ],
       "updated_at": "2026-06-29T23:50:00+00:00",
-      "updated_text": "29 June 2026 @ 23:50 UTC 23 days ago"
+      "updated_text": "29 June 2026 @ 23:50 UTC 24 days ago"
     },
     {
       "title": "Project Clanker",
@@ -87,7 +107,89 @@
         "Text"
       ],
       "updated_at": "2026-06-28T21:59:00+00:00",
-      "updated_text": "28 June 2026 @ 21:59 UTC 24 days ago"
+      "updated_text": "28 June 2026 @ 21:59 UTC 25 days ago"
+    },
+    {
+      "title": "Spellweaver",
+      "slug": "spellweaver",
+      "url": "https://jazhikho.itch.io/spellweaver",
+      "description": "Grid-based labyrinth RPG: weave custom spells from impossible glyphs and escape before your magic unravels.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3ODcyNTk0LnBuZw==/315x250%23c/Yaxih9.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Role Playing , Adventure",
+      "made_with": [
+        "Defold"
+      ],
+      "tags": [
+        "1g1w",
+        "2D",
+        "Action RPG",
+        "defold",
+        "Prototype",
+        "Retro",
+        "Top Down Adventure"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Panda3D Prototypes",
+      "slug": "panda3d-prototypes",
+      "url": "https://jazhikho.itch.io/panda3d-prototypes",
+      "description": "Two prototype projects made with panda3d",
+      "cover_image": "",
+      "status": "Prototype",
+      "category": "",
+      "genre": "",
+      "made_with": [],
+      "tags": [
+        "Prototype"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Untitled Map Game",
+      "slug": "untitled-map-game",
+      "url": "https://jazhikho.itch.io/untitled-map-game",
+      "description": "Chart a world tile by tile before HQ runs out of supplies and morale. Dispatch teams, manage a frontier, and survive.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3NDMzODA5LnBuZw==/315x250%23c/xJz3sw.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Simulation , Strategy",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "Casual",
+        "Exploration",
+        "Godot",
+        "Management",
+        "Procedural Generation",
+        "Tilemap",
+        "Top-Down",
+        "Turn-based Strategy"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
     },
     {
       "title": "Around the Bend",
@@ -111,6 +213,69 @@
         "Singleplayer"
       ],
       "ai_disclosure": [],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "StarGen",
+      "slug": "stargen",
+      "url": "https://jazhikho.itch.io/stargen",
+      "description": "Procedurally generated galaxy for automated worldbuilding",
+      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
+      "status": "In development",
+      "category": "Tool",
+      "genre": "",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Generator",
+        "Godot",
+        "Procedural Generation",
+        "Sci-fi",
+        "Space",
+        "Space Sim",
+        "world-building",
+        "worldbuilding"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Project Harvest",
+      "slug": "project-harvest",
+      "url": "https://jazhikho.itch.io/project-harvest",
+      "description": "A first-person psychological horror experience set in a shifting corn maze. Identity is fragmented; the maze remembers.",
+      "cover_image": "https://img.itch.zone/aW1nLzIzNzMxNjYxLnBuZw==/315x250%23c/%2FkC2yu.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Puzzle",
+      "made_with": [
+        "Blender",
+        "Godot",
+        "3ds Max"
+      ],
+      "tags": [
+        "3D",
+        "Atmospheric",
+        "Godot",
+        "Halloween",
+        "Horror",
+        "Psychological Horror",
+        "Roguelite",
+        "Story Rich",
+        "Walking simulator"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
       "updated_at": "",
       "updated_text": ""
     },
@@ -200,6 +365,36 @@
       "updated_text": ""
     },
     {
+      "title": "Private Eye Pierce & The Ink Spill",
+      "slug": "private-eye-pierce-the-ink-spill",
+      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
+      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
+      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Puzzle",
+      "made_with": [
+        "Unity",
+        "Aseprite"
+      ],
+      "tags": [
+        "2D",
+        "Atmospheric",
+        "Black and White",
+        "Casual",
+        "Comedy",
+        "Mouse only",
+        "Noir",
+        "Point & Click"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Warp Engineer",
       "slug": "warp-engineer",
       "url": "https://jazhikho.itch.io/warp-engineer",
@@ -277,6 +472,31 @@
         "Godot",
         "library",
         "Low-poly",
+        "No AI"
+      ],
+      "ai_disclosure": [],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "WinterIsComing",
+      "slug": "winteriscoming",
+      "url": "https://jazhikho.itch.io/winteriscoming",
+      "description": "A frozen dragon statue abandoned in a snowy drift",
+      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
+      "status": "Released",
+      "category": "Assets",
+      "genre": "",
+      "made_with": [
+        "Blender"
+      ],
+      "tags": [
+        "3D",
+        "Blender",
+        "Dragons",
+        "Fantasy",
+        "Modeling",
+        "Models",
         "No AI"
       ],
       "ai_disclosure": [],
