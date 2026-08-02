@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T03:51:40.688820+00:00",
+  "generated_at": "2026-08-02T08:36:26.711058+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -43,7 +43,7 @@
         "Text"
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 23 days ago"
+      "updated_text": "09 July 2026 @ 06:13 UTC 24 days ago"
     },
     {
       "title": "Signal Rift",
@@ -247,39 +247,6 @@
       "updated_text": ""
     },
     {
-      "title": "Project Harvest",
-      "slug": "project-harvest",
-      "url": "https://jazhikho.itch.io/project-harvest",
-      "description": "A first-person psychological horror experience set in a shifting corn maze. Identity is fragmented; the maze remembers.",
-      "cover_image": "https://img.itch.zone/aW1nLzIzNzMxNjYxLnBuZw==/315x250%23c/%2FkC2yu.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Blender",
-        "Godot",
-        "3ds Max"
-      ],
-      "tags": [
-        "3D",
-        "Atmospheric",
-        "Godot",
-        "Halloween",
-        "Horror",
-        "Psychological Horror",
-        "Roguelite",
-        "Story Rich",
-        "Walking simulator"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Loot, Luck & Liability",
       "slug": "loot-luck-liability",
       "url": "https://jazhikho.itch.io/loot-luck-liability",
@@ -302,64 +269,6 @@
         "AI Assisted",
         "Code",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Spud-Gotchi",
-      "slug": "spud-gotchi",
-      "url": "https://jazhikho.itch.io/spud-gotchi",
-      "description": "Potato is your friend. Potato is your ONLY friend.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [
-        "Aseprite",
-        "Godot"
-      ],
-      "tags": [
-        "Cute",
-        "Dark Humor",
-        "Dating Sim",
-        "Godot",
-        "Pixel Art",
-        "potato",
-        "Retro"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Relationship Overhead Tool",
-      "slug": "relationship-overhead-tool",
-      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
-      "description": "A relationship simulation sandbox for measuring complexity overhead.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
-      "status": "Released",
-      "category": "Tool",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "drama",
-        "game-development",
-        "Narrative",
-        "relationships",
-        "Sandbox",
-        "storytelling",
-        "systems",
-        "tool"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -390,35 +299,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
