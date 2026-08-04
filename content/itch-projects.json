@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-08-04T14:38:55.257230+00:00",
+  "generated_at": "2026-08-04T19:55:33.357121+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
+    {
+      "title": "Asteroid Breaker Prototype",
+      "slug": "asteroid-breaker-prototype",
+      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
+      "description": "A prototype of an asteroid breaker game",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "Asteroids",
+        "Prototype",
+        "Space"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
@@ -21,6 +44,40 @@
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
       "updated_text": "09 July 2026 @ 06:13 UTC 26 days ago"
+    },
+    {
+      "title": "Signal Rift",
+      "slug": "signal-rift",
+      "url": "https://jazhikho.itch.io/signal-rift",
+      "description": "Patrol the Cyrannus system, upgrade your ship, and hunt pirate signals amongst false echoes.",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MTU1NDc3LnBuZw==/315x250%23c/Fj89w1.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Shooter",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "2D",
+        "Arcade",
+        "Exploration",
+        "Sci-fi",
+        "Singleplayer",
+        "Space",
+        "Space Sim",
+        "storygame",
+        "Top down shooter",
+        "upgrades"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
     },
     {
       "title": "Project Clanker",
@@ -98,6 +155,38 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Untitled Map Game",
+      "slug": "untitled-map-game",
+      "url": "https://jazhikho.itch.io/untitled-map-game",
+      "description": "Chart a world tile by tile before HQ runs out of supplies and morale. Dispatch teams, manage a frontier, and survive.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3NDMzODA5LnBuZw==/315x250%23c/xJz3sw.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Simulation , Strategy",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "Casual",
+        "Exploration",
+        "Godot",
+        "Management",
+        "Procedural Generation",
+        "Tilemap",
+        "Top-Down",
+        "Turn-based Strategy"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -249,6 +338,33 @@
       "updated_text": ""
     },
     {
+      "title": "Relationship Overhead Tool",
+      "slug": "relationship-overhead-tool",
+      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
+      "description": "A relationship simulation sandbox for measuring complexity overhead.",
+      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
+      "status": "Released",
+      "category": "Tool",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "drama",
+        "game-development",
+        "Narrative",
+        "relationships",
+        "Sandbox",
+        "storytelling",
+        "systems",
+        "tool"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Private Eye Pierce & The Ink Spill",
       "slug": "private-eye-pierce-the-ink-spill",
       "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
@@ -300,6 +416,35 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Manual Override",
+      "slug": "manual-override",
+      "url": "https://jazhikho.itch.io/manual-override",
+      "description": "This is what happens when you start trusting AI.",
+      "cover_image": "https://img.itch.zone/aW1nLzI0MTE1MjI3LnBuZw==/315x250%23c/fG%2B4lR.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "",
+      "made_with": [
+        "GDevelop"
+      ],
+      "tags": [
+        "artificial-intelligence",
+        "Casual",
+        "Experimental",
+        "Mouse only",
+        "Point & Click",
+        "Sci-fi"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
         "Graphics",
         "Sounds",
         "Text"

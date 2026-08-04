@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:38:55.256693+00:00",
+  "generated_at": "2026-08-04T19:55:33.356616+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -176,6 +176,15 @@
       "summary": "Spellweaver was a small game I made using Defold. The intent here was to learn the Defold engine a bit and how to use it, as I have other work I am doing with the engine. The..."
     },
     {
+      "project_title": "Around the Bend",
+      "project_slug": "around-the-bend",
+      "project_url": "https://jazhikho.itch.io/around-the-bend",
+      "title": "Around the Bend - Lessons learned",
+      "link": "https://jazhikho.itch.io/around-the-bend/devlog/1526386/around-the-bend-lessons-learned",
+      "published_at": "2026-05-17T19:57:12+00:00",
+      "summary": "I made Around the Bend for my own jam, the One Game a Week Jam, and this week\u2019s experiment was using Bitsy. It was an interesting challenge, and I will never use Bitsy again...."
+    },
+    {
       "project_title": "Spud-Gotchi",
       "project_slug": "spud-gotchi",
       "project_url": "https://jazhikho.itch.io/spud-gotchi",
@@ -246,15 +255,6 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1467530/attention-incoming-update",
       "published_at": "2026-03-23T21:10:20+00:00",
       "summary": "StarGen v0.8 is coming soon! With this release, additional updates are getting ready to freeze for roughly the next month. While I will still be working on StarGen in the..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "Update on updates",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1459677/update-on-updates",
-      "published_at": "2026-03-15T19:27:00+00:00",
-      "summary": "Thank you to those who have taken the time to check out this program! I am about to enter my final term in school. In the coming weeks, I will be working on both my Thesis..."
     }
   ]
 }
