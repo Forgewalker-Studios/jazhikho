@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:55:33.357121+00:00",
+  "generated_at": "2026-08-05T09:04:25.372327+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -43,7 +43,7 @@
         "Text"
       ],
       "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 26 days ago"
+      "updated_text": "09 July 2026 @ 06:13 UTC 27 days ago"
     },
     {
       "title": "Signal Rift",
@@ -68,36 +68,6 @@
         "storygame",
         "Top down shooter",
         "upgrades"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Project Clanker",
-      "slug": "project-clanker",
-      "url": "https://jazhikho.itch.io/project-clanker",
-      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Platformer",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Horror",
-        "Indie",
-        "Metroidvania",
-        "Multiple Endings",
-        "Narrative"
       ],
       "ai_disclosure": [
         "AI Assisted",
