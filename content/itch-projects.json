@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:39:59.061094+00:00",
+  "generated_at": "2026-08-07T13:37:46.900248+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -80,36 +80,6 @@
       "updated_text": ""
     },
     {
-      "title": "Project Clanker",
-      "slug": "project-clanker",
-      "url": "https://jazhikho.itch.io/project-clanker",
-      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Platformer",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Horror",
-        "Indie",
-        "Metroidvania",
-        "Multiple Endings",
-        "Narrative"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Spellweaver",
       "slug": "spellweaver",
       "url": "https://jazhikho.itch.io/spellweaver",
@@ -135,26 +105,6 @@
         "Code",
         "Graphics",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Panda3D Prototypes",
-      "slug": "panda3d-prototypes",
-      "url": "https://jazhikho.itch.io/panda3d-prototypes",
-      "description": "Two prototype projects made with panda3d",
-      "cover_image": "",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [],
-      "tags": [
-        "Prototype"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -213,96 +163,6 @@
         "Singleplayer"
       ],
       "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "StarGen",
-      "slug": "stargen",
-      "url": "https://jazhikho.itch.io/stargen",
-      "description": "Procedurally generated galaxy for automated worldbuilding",
-      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
-      "status": "In development",
-      "category": "Tool",
-      "genre": "",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Generator",
-        "Godot",
-        "Procedural Generation",
-        "Sci-fi",
-        "Space",
-        "Space Sim",
-        "world-building",
-        "worldbuilding"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Project Harvest",
-      "slug": "project-harvest",
-      "url": "https://jazhikho.itch.io/project-harvest",
-      "description": "A first-person psychological horror experience set in a shifting corn maze. Identity is fragmented; the maze remembers.",
-      "cover_image": "https://img.itch.zone/aW1nLzIzNzMxNjYxLnBuZw==/315x250%23c/%2FkC2yu.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Blender",
-        "Godot",
-        "3ds Max"
-      ],
-      "tags": [
-        "3D",
-        "Atmospheric",
-        "Godot",
-        "Halloween",
-        "Horror",
-        "Psychological Horror",
-        "Roguelite",
-        "Story Rich",
-        "Walking simulator"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
-      "tags": [
-        "AI Generated",
-        "Casual",
-        "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
       "updated_at": "",
       "updated_text": ""
     },
@@ -391,115 +251,6 @@
         "AI Assisted",
         "Code"
       ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Manual Override",
-      "slug": "manual-override",
-      "url": "https://jazhikho.itch.io/manual-override",
-      "description": "This is what happens when you start trusting AI.",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MTE1MjI3LnBuZw==/315x250%23c/fG%2B4lR.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [
-        "GDevelop"
-      ],
-      "tags": [
-        "artificial-intelligence",
-        "Casual",
-        "Experimental",
-        "Mouse only",
-        "Point & Click",
-        "Sci-fi"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Sample Pack - Low Poly Library Assets",
-      "slug": "low-poly-library-assets",
-      "url": "https://jazhikho.itch.io/low-poly-library-assets",
-      "description": "\u200bA sample pack of four low-poly library assets",
-      "cover_image": "https://img.itch.zone/aW1nLzI2NjkxNjY4LnBuZw==/315x250%23c/w1jzIX.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender",
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Asset Pack",
-        "furniture",
-        "Godot",
-        "library",
-        "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "WinterIsComing",
-      "slug": "winteriscoming",
-      "url": "https://jazhikho.itch.io/winteriscoming",
-      "description": "A frozen dragon statue abandoned in a snowy drift",
-      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender"
-      ],
-      "tags": [
-        "3D",
-        "Blender",
-        "Dragons",
-        "Fantasy",
-        "Modeling",
-        "Models",
-        "No AI"
-      ],
-      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     }
