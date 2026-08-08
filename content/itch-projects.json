@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:14:41.058656+00:00",
+  "generated_at": "2026-08-08T02:20:47.466147+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -217,36 +217,6 @@
       "updated_text": ""
     },
     {
-      "title": "StarGen",
-      "slug": "stargen",
-      "url": "https://jazhikho.itch.io/stargen",
-      "description": "Procedurally generated galaxy for automated worldbuilding",
-      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
-      "status": "In development",
-      "category": "Tool",
-      "genre": "",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Generator",
-        "Godot",
-        "Procedural Generation",
-        "Sci-fi",
-        "Space",
-        "Space Sim",
-        "world-building",
-        "worldbuilding"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Project Harvest",
       "slug": "project-harvest",
       "url": "https://jazhikho.itch.io/project-harvest",
@@ -301,6 +271,37 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Spud-Gotchi",
+      "slug": "spud-gotchi",
+      "url": "https://jazhikho.itch.io/spud-gotchi",
+      "description": "Potato is your friend. Potato is your ONLY friend.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [
+        "Aseprite",
+        "Godot"
+      ],
+      "tags": [
+        "Cute",
+        "Dark Humor",
+        "Dating Sim",
+        "Godot",
+        "Pixel Art",
+        "potato",
+        "Retro"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Sounds",
         "Text"
       ],
       "updated_at": "",
@@ -418,6 +419,32 @@
         "Sounds",
         "Text"
       ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Sample Pack - Low Poly Library Assets",
+      "slug": "low-poly-library-assets",
+      "url": "https://jazhikho.itch.io/low-poly-library-assets",
+      "description": "\u200bA sample pack of four low-poly library assets",
+      "cover_image": "https://img.itch.zone/aW1nLzI2NjkxNjY4LnBuZw==/315x250%23c/w1jzIX.png",
+      "status": "Released",
+      "category": "Assets",
+      "genre": "",
+      "made_with": [
+        "Blender",
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Asset Pack",
+        "furniture",
+        "Godot",
+        "library",
+        "Low-poly",
+        "No AI"
+      ],
+      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
