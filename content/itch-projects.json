@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-08-08T07:14:07.775310+00:00",
+  "generated_at": "2026-08-08T13:11:28.300628+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
-    {
-      "title": "Asteroid Breaker Prototype",
-      "slug": "asteroid-breaker-prototype",
-      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
-      "description": "A prototype of an asteroid breaker game",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "Asteroids",
-        "Prototype",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
@@ -140,26 +117,6 @@
       "updated_text": ""
     },
     {
-      "title": "Panda3D Prototypes",
-      "slug": "panda3d-prototypes",
-      "url": "https://jazhikho.itch.io/panda3d-prototypes",
-      "description": "Two prototype projects made with panda3d",
-      "cover_image": "",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [],
-      "tags": [
-        "Prototype"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Untitled Map Game",
       "slug": "untitled-map-game",
       "url": "https://jazhikho.itch.io/untitled-map-game",
@@ -188,31 +145,6 @@
         "Sounds",
         "Text"
       ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Around the Bend",
-      "slug": "around-the-bend",
-      "url": "https://jazhikho.itch.io/around-the-bend",
-      "description": "Paddle down the River Feral. Who do you trust? Are you ready to make it on your own?",
-      "cover_image": "https://img.itch.zone/aW1nLzI3MzIwNjYzLnBuZw==/315x250%23c/OSX%2F%2BU.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Adventure",
-      "made_with": [
-        "bitsy"
-      ],
-      "tags": [
-        "Bitsy",
-        "Comedy",
-        "Multiple Endings",
-        "Narrative",
-        "No AI",
-        "Pixel Art",
-        "Singleplayer"
-      ],
-      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
@@ -390,35 +322,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
