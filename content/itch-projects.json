@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:20:47.466147+00:00",
+  "generated_at": "2026-08-08T07:14:07.775310+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -42,8 +42,8 @@
         "Graphics",
         "Text"
       ],
-      "updated_at": "2026-07-09T06:13:00+00:00",
-      "updated_text": "09 July 2026 @ 06:13 UTC 29 days ago"
+      "updated_at": "",
+      "updated_text": ""
     },
     {
       "title": "Signal Rift",
@@ -213,6 +213,36 @@
         "Singleplayer"
       ],
       "ai_disclosure": [],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "StarGen",
+      "slug": "stargen",
+      "url": "https://jazhikho.itch.io/stargen",
+      "description": "Procedurally generated galaxy for automated worldbuilding",
+      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
+      "status": "In development",
+      "category": "Tool",
+      "genre": "",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Generator",
+        "Godot",
+        "Procedural Generation",
+        "Sci-fi",
+        "Space",
+        "Space Sim",
+        "world-building",
+        "worldbuilding"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
       "updated_at": "",
       "updated_text": ""
     },
