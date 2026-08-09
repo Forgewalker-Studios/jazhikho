@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:11:28.300127+00:00",
+  "generated_at": "2026-08-09T13:15:27.951648+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -149,6 +149,24 @@
   ],
   "items": [
     {
+      "project_title": "Signal Rift",
+      "project_slug": "signal-rift",
+      "project_url": "https://jazhikho.itch.io/signal-rift",
+      "title": "Signal Rift Post Mortem",
+      "link": "https://jazhikho.itch.io/signal-rift/devlog/1567191/signal-rift-post-mortem",
+      "published_at": "2026-06-28T16:06:02+00:00",
+      "summary": "**Signal Rift \u2014 Postmortem ** *A 2D arcade space shooter built in Godot in about a week. Honest notes on jam DNA, scope, AI, assets, and why planning beat vibes. * **Where it..."
+    },
+    {
+      "project_title": "Project Clanker",
+      "project_slug": "project-clanker",
+      "project_url": "https://jazhikho.itch.io/project-clanker",
+      "title": "Postmortem: Am I Doing This Right?",
+      "link": "https://jazhikho.itch.io/project-clanker/devlog/1562535/postmortem-am-i-doing-this-right",
+      "published_at": "2026-06-24T16:31:13+00:00",
+      "summary": "The Door Remembers, or Project Clanker as it was called during development, is my submission for Week 6 of One Game A Week, hosted by ForgeWalker Studios; first, I would like to..."
+    },
+    {
       "project_title": "Spellweaver",
       "project_slug": "spellweaver",
       "project_url": "https://jazhikho.itch.io/spellweaver",
@@ -185,76 +203,31 @@
       "summary": "As I near the end of my graduate degree, one of the goals I have in mind is to produce one game a week. To this, end, I have decided that, starting mid-may, I will be hosting and..."
     },
     {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "v.0.10 released (Back on a weekly release schedule)",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1508065/v010-released-back-on-a-weekly-release-schedule",
-      "published_at": "2026-05-02T16:03:20+00:00",
-      "summary": "V.0.10.0 is mostly a science hardening pass - there isn\u2019t much that you will see different, but as I move closer to V.1.0, scientific accuracy will become more important. I have..."
+      "project_title": "Loot, Luck & Liability",
+      "project_slug": "loot-luck-liability",
+      "project_url": "https://jazhikho.itch.io/loot-luck-liability",
+      "title": "New Game! Announcing Loot, Luck, and Liability!",
+      "link": "https://jazhikho.itch.io/loot-luck-liability/devlog/1453882/new-game-announcing-loot-luck-and-liability",
+      "published_at": "2026-03-10T03:39:44+00:00",
+      "summary": "Announcing the release of Loot, Luck & Liability. This is a silly game that I made ~48 hours for St. Paddy\u2019s Roguelite Game Jam. Based on feedback, I will be updating this game..."
     },
     {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "0.9d release and FDG 26",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1500729/09d-release-and-fdg-26",
-      "published_at": "2026-04-26T20:49:20+00:00",
-      "summary": "Now available for download, StarGen 0.9d! I have already said much about its release, so I won\u2019t labor the point here. However, I have some exciting news! The 2026 Foundations of..."
+      "project_title": "Project Harvest",
+      "project_slug": "project-harvest",
+      "project_url": "https://jazhikho.itch.io/project-harvest",
+      "title": "1.6 Release! (And why it's not 2.0)",
+      "link": "https://jazhikho.itch.io/project-harvest/devlog/1452274/16-release-and-why-its-not-20",
+      "published_at": "2026-03-08T15:00:54+00:00",
+      "summary": "So, I pushed what I think will be the Final release (for now) of this game. And it\u2019s a 1.6 release, not a 2.0 release. I didn\u2019t end up changing the game play despite wanting to..."
     },
     {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "0.9d is here!",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1496901/09d-is-here",
-      "published_at": "2026-04-22T19:45:41+00:00",
-      "summary": "0.9d has been released on my Patreon ! I will be dropping the build here on itch.io within the next week, but you can access it now if you sign up!..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "v0.9 discussion",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1487867/v09-discussion",
-      "published_at": "2026-04-12T19:55:39+00:00",
-      "summary": "So, I\u2019m still working on StarGen even though here on itch, the progress is frozen. I am limiting the scope a bit regarding detail; Concept Atlas will be moving to a different..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "Aaaaaand, it's here!",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1470375/aaaaaand-its-here",
-      "published_at": "2026-03-27T01:45:29+00:00",
-      "summary": "It is here, the showcase version of StarGen. As for my release schedule: there will be no further release builds while development is frozen until late April or early May\u2014bug..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "Attention: Incoming Update!",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1467530/attention-incoming-update",
-      "published_at": "2026-03-23T21:10:20+00:00",
-      "summary": "StarGen v0.8 is coming soon! With this release, additional updates are getting ready to freeze for roughly the next month. While I will still be working on StarGen in the..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "Update on updates",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1459677/update-on-updates",
-      "published_at": "2026-03-15T19:27:00+00:00",
-      "summary": "Thank you to those who have taken the time to check out this program! I am about to enter my final term in school. In the coming weeks, I will be working on both my Thesis..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "v0.5 release",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1456772/v05-release",
-      "published_at": "2026-03-13T15:36:28+00:00",
-      "summary": "I\u2019m not sure what happened to the v0.4 version, but it was never released anywhere. I decided not to make a big deal about it and just go ahead and release 0.5 instead. This..."
+      "project_title": "Project Harvest",
+      "project_slug": "project-harvest",
+      "project_url": "https://jazhikho.itch.io/project-harvest",
+      "title": "Version 2.0 coming",
+      "link": "https://jazhikho.itch.io/project-harvest/devlog/1407563/version-20-coming",
+      "published_at": "2026-02-22T22:51:24+00:00",
+      "summary": "Its been a few weeks since I\u2019ve last posted - it has been a busy semester. I\u2019ve been working on Private Eye Pierce with my team. But with some upcoming festivals coming up, I..."
     }
   ]
 }

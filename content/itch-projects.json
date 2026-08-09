@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:11:28.300628+00:00",
+  "generated_at": "2026-08-09T13:15:27.952135+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -117,6 +117,26 @@
       "updated_text": ""
     },
     {
+      "title": "Panda3D Prototypes",
+      "slug": "panda3d-prototypes",
+      "url": "https://jazhikho.itch.io/panda3d-prototypes",
+      "description": "Two prototype projects made with panda3d",
+      "cover_image": "",
+      "status": "Prototype",
+      "category": "",
+      "genre": "",
+      "made_with": [],
+      "tags": [
+        "Prototype"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Untitled Map Game",
       "slug": "untitled-map-game",
       "url": "https://jazhikho.itch.io/untitled-map-game",
@@ -145,6 +165,31 @@
         "Sounds",
         "Text"
       ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Around the Bend",
+      "slug": "around-the-bend",
+      "url": "https://jazhikho.itch.io/around-the-bend",
+      "description": "Paddle down the River Feral. Who do you trust? Are you ready to make it on your own?",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MzIwNjYzLnBuZw==/315x250%23c/OSX%2F%2BU.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Adventure",
+      "made_with": [
+        "bitsy"
+      ],
+      "tags": [
+        "Bitsy",
+        "Comedy",
+        "Multiple Endings",
+        "Narrative",
+        "No AI",
+        "Pixel Art",
+        "Singleplayer"
+      ],
+      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
@@ -239,37 +284,6 @@
       "updated_text": ""
     },
     {
-      "title": "Spud-Gotchi",
-      "slug": "spud-gotchi",
-      "url": "https://jazhikho.itch.io/spud-gotchi",
-      "description": "Potato is your friend. Potato is your ONLY friend.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [
-        "Aseprite",
-        "Godot"
-      ],
-      "tags": [
-        "Cute",
-        "Dark Humor",
-        "Dating Sim",
-        "Godot",
-        "Pixel Art",
-        "potato",
-        "Retro"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Relationship Overhead Tool",
       "slug": "relationship-overhead-tool",
       "url": "https://jazhikho.itch.io/relationship-overhead-tool",
@@ -297,31 +311,30 @@
       "updated_text": ""
     },
     {
-      "title": "Private Eye Pierce & The Ink Spill",
-      "slug": "private-eye-pierce-the-ink-spill",
-      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
-      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
-      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
-      "status": "Prototype",
+      "title": "Warp Engineer",
+      "slug": "warp-engineer",
+      "url": "https://jazhikho.itch.io/warp-engineer",
+      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
+      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
+      "status": "In development",
       "category": "",
       "genre": "Puzzle",
-      "made_with": [
-        "Unity",
-        "Aseprite"
-      ],
+      "made_with": [],
       "tags": [
-        "2D",
-        "Atmospheric",
-        "Black and White",
         "Casual",
-        "Comedy",
-        "Mouse only",
-        "Noir",
-        "Point & Click"
+        "Indie",
+        "Physics",
+        "Relaxing",
+        "Sci-fi",
+        "Singleplayer",
+        "Space"
       ],
       "ai_disclosure": [
         "AI Assisted",
-        "Code"
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
       ],
       "updated_at": "",
       "updated_text": ""
