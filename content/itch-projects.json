@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-08-09T13:15:27.952135+00:00",
+  "generated_at": "2026-08-09T19:00:08.343530+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
+    {
+      "title": "Asteroid Breaker Prototype",
+      "slug": "asteroid-breaker-prototype",
+      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
+      "description": "A prototype of an asteroid breaker game",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "Asteroids",
+        "Prototype",
+        "Space"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
@@ -112,26 +135,6 @@
         "Code",
         "Graphics",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Panda3D Prototypes",
-      "slug": "panda3d-prototypes",
-      "url": "https://jazhikho.itch.io/panda3d-prototypes",
-      "description": "Two prototype projects made with panda3d",
-      "cover_image": "",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [],
-      "tags": [
-        "Prototype"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -278,6 +281,37 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Spud-Gotchi",
+      "slug": "spud-gotchi",
+      "url": "https://jazhikho.itch.io/spud-gotchi",
+      "description": "Potato is your friend. Potato is your ONLY friend.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [
+        "Aseprite",
+        "Godot"
+      ],
+      "tags": [
+        "Cute",
+        "Dark Humor",
+        "Dating Sim",
+        "Godot",
+        "Pixel Art",
+        "potato",
+        "Retro"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Sounds",
         "Text"
       ],
       "updated_at": "",
