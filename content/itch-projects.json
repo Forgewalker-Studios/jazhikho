@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:00:08.343530+00:00",
+  "generated_at": "2026-08-10T02:33:36.572987+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -135,6 +135,26 @@
         "Code",
         "Graphics",
         "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Panda3D Prototypes",
+      "slug": "panda3d-prototypes",
+      "url": "https://jazhikho.itch.io/panda3d-prototypes",
+      "description": "Two prototype projects made with panda3d",
+      "cover_image": "",
+      "status": "Prototype",
+      "category": "",
+      "genre": "",
+      "made_with": [],
+      "tags": [
+        "Prototype"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -336,6 +356,36 @@
         "storytelling",
         "systems",
         "tool"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Private Eye Pierce & The Ink Spill",
+      "slug": "private-eye-pierce-the-ink-spill",
+      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
+      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
+      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Puzzle",
+      "made_with": [
+        "Unity",
+        "Aseprite"
+      ],
+      "tags": [
+        "2D",
+        "Atmospheric",
+        "Black and White",
+        "Casual",
+        "Comedy",
+        "Mouse only",
+        "Noir",
+        "Point & Click"
       ],
       "ai_disclosure": [
         "AI Assisted",
