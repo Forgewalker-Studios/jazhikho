@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:49:25.074414+00:00",
+  "generated_at": "2026-08-22T06:58:28.882671+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -213,6 +213,36 @@
         "Singleplayer"
       ],
       "ai_disclosure": [],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "StarGen",
+      "slug": "stargen",
+      "url": "https://jazhikho.itch.io/stargen",
+      "description": "Procedurally generated galaxy for automated worldbuilding",
+      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
+      "status": "In development",
+      "category": "Tool",
+      "genre": "",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Generator",
+        "Godot",
+        "Procedural Generation",
+        "Sci-fi",
+        "Space",
+        "Space Sim",
+        "world-building",
+        "worldbuilding"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
       "updated_at": "",
       "updated_text": ""
     },
