@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:18:57.291140+00:00",
+  "generated_at": "2026-08-29T07:03:44.474888+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -158,15 +158,6 @@
       "summary": "**Signal Rift \u2014 Postmortem ** *A 2D arcade space shooter built in Godot in about a week. Honest notes on jam DNA, scope, AI, assets, and why planning beat vibes. * **Where it..."
     },
     {
-      "project_title": "Project Clanker",
-      "project_slug": "project-clanker",
-      "project_url": "https://jazhikho.itch.io/project-clanker",
-      "title": "Postmortem: Am I Doing This Right?",
-      "link": "https://jazhikho.itch.io/project-clanker/devlog/1562535/postmortem-am-i-doing-this-right",
-      "published_at": "2026-06-24T16:31:13+00:00",
-      "summary": "The Door Remembers, or Project Clanker as it was called during development, is my submission for Week 6 of One Game A Week, hosted by ForgeWalker Studios; first, I would like to..."
-    },
-    {
       "project_title": "Spellweaver",
       "project_slug": "spellweaver",
       "project_url": "https://jazhikho.itch.io/spellweaver",
@@ -255,6 +246,15 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1467530/attention-incoming-update",
       "published_at": "2026-03-23T21:10:20+00:00",
       "summary": "StarGen v0.8 is coming soon! With this release, additional updates are getting ready to freeze for roughly the next month. While I will still be working on StarGen in the..."
+    },
+    {
+      "project_title": "StarGen",
+      "project_slug": "stargen",
+      "project_url": "https://jazhikho.itch.io/stargen",
+      "title": "Update on updates",
+      "link": "https://jazhikho.itch.io/stargen/devlog/1459677/update-on-updates",
+      "published_at": "2026-03-15T19:27:00+00:00",
+      "summary": "Thank you to those who have taken the time to check out this program! I am about to enter my final term in school. In the coming weeks, I will be working on both my Thesis..."
     }
   ]
 }
