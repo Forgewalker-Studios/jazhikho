@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:32:37.872013+00:00",
+  "generated_at": "2026-09-03T11:13:31.307382+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -20,26 +20,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "What We Left There",
-      "slug": "what-we-left-there",
-      "url": "https://jazhikho.itch.io/what-we-left-there",
-      "description": "After a transport crash on a frontier world, Jack and Iria are forced to rebuild something that broke under pressure.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3NzMxMDAzLnBuZw==/315x250%23c/m%2FP7vW.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Visual Novel",
-      "made_with": [],
-      "tags": [],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
         "Text"
       ],
       "updated_at": "",
