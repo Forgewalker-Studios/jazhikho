@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:13:31.306906+00:00",
+  "generated_at": "2026-09-03T16:25:09.222488+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -149,6 +149,15 @@
   ],
   "items": [
     {
+      "project_title": "Signal Rift",
+      "project_slug": "signal-rift",
+      "project_url": "https://jazhikho.itch.io/signal-rift",
+      "title": "Signal Rift Post Mortem",
+      "link": "https://jazhikho.itch.io/signal-rift/devlog/1567191/signal-rift-post-mortem",
+      "published_at": "2026-06-28T16:06:02+00:00",
+      "summary": "**Signal Rift \u2014 Postmortem ** *A 2D arcade space shooter built in Godot in about a week. Honest notes on jam DNA, scope, AI, assets, and why planning beat vibes. * **Where it..."
+    },
+    {
       "project_title": "Project Clanker",
       "project_slug": "project-clanker",
       "project_url": "https://jazhikho.itch.io/project-clanker",
@@ -246,15 +255,6 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1467530/attention-incoming-update",
       "published_at": "2026-03-23T21:10:20+00:00",
       "summary": "StarGen v0.8 is coming soon! With this release, additional updates are getting ready to freeze for roughly the next month. While I will still be working on StarGen in the..."
-    },
-    {
-      "project_title": "StarGen",
-      "project_slug": "stargen",
-      "project_url": "https://jazhikho.itch.io/stargen",
-      "title": "Update on updates",
-      "link": "https://jazhikho.itch.io/stargen/devlog/1459677/update-on-updates",
-      "published_at": "2026-03-15T19:27:00+00:00",
-      "summary": "Thank you to those who have taken the time to check out this program! I am about to enter my final term in school. In the coming weeks, I will be working on both my Thesis..."
     }
   ]
 }
