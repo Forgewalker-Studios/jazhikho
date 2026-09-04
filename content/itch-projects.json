@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:32:18.149891+00:00",
+  "generated_at": "2026-09-04T11:17:14.372814+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -280,6 +280,33 @@
       "updated_text": ""
     },
     {
+      "title": "Loot, Luck & Liability",
+      "slug": "loot-luck-liability",
+      "url": "https://jazhikho.itch.io/loot-luck-liability",
+      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
+      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Role Playing",
+      "made_with": [],
+      "tags": [
+        "AI Generated",
+        "Casual",
+        "Comedy",
+        "Dungeon Crawler",
+        "Funny",
+        "Relaxing",
+        "Roguelite"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Spud-Gotchi",
       "slug": "spud-gotchi",
       "url": "https://jazhikho.itch.io/spud-gotchi",
@@ -368,35 +395,6 @@
       "updated_text": ""
     },
     {
-      "title": "Warp Engineer",
-      "slug": "warp-engineer",
-      "url": "https://jazhikho.itch.io/warp-engineer",
-      "description": "Adjust the harmonics of waves to guide your ship as you surf through spacetime in a warp bubble",
-      "cover_image": "https://img.itch.zone/aW1nLzI0MzMzMjgwLnBuZw==/315x250%23c/XQMftW.png",
-      "status": "In development",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [],
-      "tags": [
-        "Casual",
-        "Indie",
-        "Physics",
-        "Relaxing",
-        "Sci-fi",
-        "Singleplayer",
-        "Space"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Manual Override",
       "slug": "manual-override",
       "url": "https://jazhikho.itch.io/manual-override",
@@ -445,31 +443,6 @@
         "Godot",
         "library",
         "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "WinterIsComing",
-      "slug": "winteriscoming",
-      "url": "https://jazhikho.itch.io/winteriscoming",
-      "description": "A frozen dragon statue abandoned in a snowy drift",
-      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender"
-      ],
-      "tags": [
-        "3D",
-        "Blender",
-        "Dragons",
-        "Fantasy",
-        "Modeling",
-        "Models",
         "No AI"
       ],
       "ai_disclosure": [],
