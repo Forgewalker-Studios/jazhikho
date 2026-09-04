@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:01:33.069390+00:00",
+  "generated_at": "2026-09-04T04:32:18.149891+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -270,33 +270,6 @@
         "Roguelite",
         "Story Rich",
         "Walking simulator"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
-      "tags": [
-        "AI Generated",
-        "Casual",
-        "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
       ],
       "ai_disclosure": [
         "AI Assisted",
