@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:08:48.213749+00:00",
+  "generated_at": "2026-09-09T04:40:57.814736+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -34,7 +34,9 @@
       "status": "Released",
       "category": "",
       "genre": "Visual Novel",
-      "made_with": [],
+      "made_with": [
+        "Ren'Py"
+      ],
       "tags": [],
       "ai_disclosure": [
         "AI Assisted",
