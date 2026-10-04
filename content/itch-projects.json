@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:13:45.313594+00:00",
+  "generated_at": "2026-10-04T05:51:48.837373+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -219,36 +219,6 @@
       "updated_text": ""
     },
     {
-      "title": "StarGen",
-      "slug": "stargen",
-      "url": "https://jazhikho.itch.io/stargen",
-      "description": "Procedurally generated galaxy for automated worldbuilding",
-      "cover_image": "https://img.itch.zone/aW1nLzI1ODI1NTcwLnBuZw==/315x250%23c/WTpJu1.png",
-      "status": "In development",
-      "category": "Tool",
-      "genre": "",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "3D",
-        "Generator",
-        "Godot",
-        "Procedural Generation",
-        "Sci-fi",
-        "Space",
-        "Space Sim",
-        "world-building",
-        "worldbuilding"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Project Harvest",
       "slug": "project-harvest",
       "url": "https://jazhikho.itch.io/project-harvest",
@@ -367,36 +337,6 @@
       "updated_text": ""
     },
     {
-      "title": "Private Eye Pierce & The Ink Spill",
-      "slug": "private-eye-pierce-the-ink-spill",
-      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
-      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
-      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Unity",
-        "Aseprite"
-      ],
-      "tags": [
-        "2D",
-        "Atmospheric",
-        "Black and White",
-        "Casual",
-        "Comedy",
-        "Mouse only",
-        "Noir",
-        "Point & Click"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
       "title": "Warp Engineer",
       "slug": "warp-engineer",
       "url": "https://jazhikho.itch.io/warp-engineer",
@@ -474,31 +414,6 @@
         "Godot",
         "library",
         "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "WinterIsComing",
-      "slug": "winteriscoming",
-      "url": "https://jazhikho.itch.io/winteriscoming",
-      "description": "A frozen dragon statue abandoned in a snowy drift",
-      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender"
-      ],
-      "tags": [
-        "3D",
-        "Blender",
-        "Dragons",
-        "Fantasy",
-        "Modeling",
-        "Models",
         "No AI"
       ],
       "ai_disclosure": [],
