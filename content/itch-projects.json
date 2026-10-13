@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:10:21.470463+00:00",
+  "generated_at": "2026-10-13T22:44:07.104321+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -358,36 +358,6 @@
         "storytelling",
         "systems",
         "tool"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Private Eye Pierce & The Ink Spill",
-      "slug": "private-eye-pierce-the-ink-spill",
-      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
-      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
-      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Unity",
-        "Aseprite"
-      ],
-      "tags": [
-        "2D",
-        "Atmospheric",
-        "Black and White",
-        "Casual",
-        "Comedy",
-        "Mouse only",
-        "Noir",
-        "Point & Click"
       ],
       "ai_disclosure": [
         "AI Assisted",
