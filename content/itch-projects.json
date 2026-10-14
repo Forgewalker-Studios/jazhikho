@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:09:37.433611+00:00",
+  "generated_at": "2026-10-14T21:40:13.216668+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -70,6 +70,36 @@
         "storygame",
         "Top down shooter",
         "upgrades"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Project Clanker",
+      "slug": "project-clanker",
+      "url": "https://jazhikho.itch.io/project-clanker",
+      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Platformer",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "2D",
+        "Horror",
+        "Indie",
+        "Metroidvania",
+        "Multiple Endings",
+        "Narrative"
       ],
       "ai_disclosure": [
         "AI Assisted",
@@ -421,6 +451,32 @@
         "Sounds",
         "Text"
       ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Sample Pack - Low Poly Library Assets",
+      "slug": "low-poly-library-assets",
+      "url": "https://jazhikho.itch.io/low-poly-library-assets",
+      "description": "\u200bA sample pack of four low-poly library assets",
+      "cover_image": "https://img.itch.zone/aW1nLzI2NjkxNjY4LnBuZw==/315x250%23c/w1jzIX.png",
+      "status": "Released",
+      "category": "Assets",
+      "genre": "",
+      "made_with": [
+        "Blender",
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Asset Pack",
+        "furniture",
+        "Godot",
+        "library",
+        "Low-poly",
+        "No AI"
+      ],
+      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
