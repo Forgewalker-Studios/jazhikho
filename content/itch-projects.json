@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-10-15T16:59:55.594782+00:00",
+  "generated_at": "2026-10-15T21:21:58.901738+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
+    {
+      "title": "Asteroid Breaker Prototype",
+      "slug": "asteroid-breaker-prototype",
+      "url": "https://jazhikho.itch.io/asteroid-breaker-prototype",
+      "description": "A prototype of an asteroid breaker game",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MzQ3OTk4LnBuZw==/315x250%23c/ASQD6m.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "Asteroids",
+        "Prototype",
+        "Space"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
     {
       "title": "What We Left There",
       "slug": "what-we-left-there",
@@ -281,94 +304,6 @@
         "AI Assisted",
         "Code",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Spud-Gotchi",
-      "slug": "spud-gotchi",
-      "url": "https://jazhikho.itch.io/spud-gotchi",
-      "description": "Potato is your friend. Potato is your ONLY friend.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [
-        "Aseprite",
-        "Godot"
-      ],
-      "tags": [
-        "Cute",
-        "Dark Humor",
-        "Dating Sim",
-        "Godot",
-        "Pixel Art",
-        "potato",
-        "Retro"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Sounds",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Relationship Overhead Tool",
-      "slug": "relationship-overhead-tool",
-      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
-      "description": "A relationship simulation sandbox for measuring complexity overhead.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
-      "status": "Released",
-      "category": "Tool",
-      "genre": "Simulation",
-      "made_with": [],
-      "tags": [
-        "drama",
-        "game-development",
-        "Narrative",
-        "relationships",
-        "Sandbox",
-        "storytelling",
-        "systems",
-        "tool"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Private Eye Pierce & The Ink Spill",
-      "slug": "private-eye-pierce-the-ink-spill",
-      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
-      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
-      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
-      "status": "Prototype",
-      "category": "",
-      "genre": "Puzzle",
-      "made_with": [
-        "Unity",
-        "Aseprite"
-      ],
-      "tags": [
-        "2D",
-        "Atmospheric",
-        "Black and White",
-        "Casual",
-        "Comedy",
-        "Mouse only",
-        "Noir",
-        "Point & Click"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
