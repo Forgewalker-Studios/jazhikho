@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:30:40.585201+00:00",
+  "generated_at": "2026-10-16T11:22:50.109937+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -277,6 +277,91 @@
         "AI Assisted",
         "Code",
         "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Loot, Luck & Liability",
+      "slug": "loot-luck-liability",
+      "url": "https://jazhikho.itch.io/loot-luck-liability",
+      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
+      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Role Playing",
+      "made_with": [],
+      "tags": [
+        "AI Generated",
+        "Casual",
+        "Comedy",
+        "Dungeon Crawler",
+        "Funny",
+        "Relaxing",
+        "Roguelite"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Spud-Gotchi",
+      "slug": "spud-gotchi",
+      "url": "https://jazhikho.itch.io/spud-gotchi",
+      "description": "Potato is your friend. Potato is your ONLY friend.",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Simulation",
+      "made_with": [
+        "Aseprite",
+        "Godot"
+      ],
+      "tags": [
+        "Cute",
+        "Dark Humor",
+        "Dating Sim",
+        "Godot",
+        "Pixel Art",
+        "potato",
+        "Retro"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Relationship Overhead Tool",
+      "slug": "relationship-overhead-tool",
+      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
+      "description": "A relationship simulation sandbox for measuring complexity overhead.",
+      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
+      "status": "Released",
+      "category": "Tool",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "drama",
+        "game-development",
+        "Narrative",
+        "relationships",
+        "Sandbox",
+        "storytelling",
+        "systems",
+        "tool"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
