@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:21:58.901738+00:00",
+  "generated_at": "2026-10-16T04:30:40.585201+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -282,28 +282,31 @@
       "updated_text": ""
     },
     {
-      "title": "Loot, Luck & Liability",
-      "slug": "loot-luck-liability",
-      "url": "https://jazhikho.itch.io/loot-luck-liability",
-      "description": "Now hiring: Dungeon retrieval. Competitive pay. Previous near-death experience a plus. No Luck required.",
-      "cover_image": "https://img.itch.zone/aW1nLzI2MDQ3ODk2LnBuZw==/315x250%23c/YZEQdq.png",
-      "status": "Released",
+      "title": "Private Eye Pierce & The Ink Spill",
+      "slug": "private-eye-pierce-the-ink-spill",
+      "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
+      "description": "A washed-up detective escapes the monotony of his grayscale office as color invades the outside world",
+      "cover_image": "https://img.itch.zone/aW1nLzI1NDAyNzg1LnBuZw==/315x250%23c/3arWw%2F.png",
+      "status": "Prototype",
       "category": "",
-      "genre": "Role Playing",
-      "made_with": [],
+      "genre": "Puzzle",
+      "made_with": [
+        "Unity",
+        "Aseprite"
+      ],
       "tags": [
-        "AI Generated",
+        "2D",
+        "Atmospheric",
+        "Black and White",
         "Casual",
         "Comedy",
-        "Dungeon Crawler",
-        "Funny",
-        "Relaxing",
-        "Roguelite"
+        "Mouse only",
+        "Noir",
+        "Point & Click"
       ],
       "ai_disclosure": [
         "AI Assisted",
-        "Code",
-        "Text"
+        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
