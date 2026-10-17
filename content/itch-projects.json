@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:06:48.483830+00:00",
+  "generated_at": "2026-10-17T04:24:28.256509+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -42,40 +42,6 @@
         "AI Assisted",
         "Code",
         "Graphics",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Signal Rift",
-      "slug": "signal-rift",
-      "url": "https://jazhikho.itch.io/signal-rift",
-      "description": "Patrol the Cyrannus system, upgrade your ship, and hunt pirate signals amongst false echoes.",
-      "cover_image": "https://img.itch.zone/aW1nLzI4MTU1NDc3LnBuZw==/315x250%23c/Fj89w1.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Shooter",
-      "made_with": [
-        "Godot"
-      ],
-      "tags": [
-        "2D",
-        "Arcade",
-        "Exploration",
-        "Sci-fi",
-        "Singleplayer",
-        "Space",
-        "Space Sim",
-        "storygame",
-        "Top down shooter",
-        "upgrades"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Graphics",
-        "Sounds",
         "Text"
       ],
       "updated_at": "",
