@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:10:07.234268+00:00",
+  "generated_at": "2026-10-27T18:00:31.208640+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -451,6 +451,32 @@
         "Sounds",
         "Text"
       ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Sample Pack - Low Poly Library Assets",
+      "slug": "low-poly-library-assets",
+      "url": "https://jazhikho.itch.io/low-poly-library-assets",
+      "description": "\u200bA sample pack of four low-poly library assets",
+      "cover_image": "https://img.itch.zone/aW1nLzI2NjkxNjY4LnBuZw==/315x250%23c/w1jzIX.png",
+      "status": "Released",
+      "category": "Assets",
+      "genre": "",
+      "made_with": [
+        "Blender",
+        "Godot"
+      ],
+      "tags": [
+        "3D",
+        "Asset Pack",
+        "furniture",
+        "Godot",
+        "library",
+        "Low-poly",
+        "No AI"
+      ],
+      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
