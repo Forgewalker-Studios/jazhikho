@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:44:33.368856+00:00",
+  "generated_at": "2026-11-05T06:44:33.157536+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -137,26 +137,6 @@
         "Code",
         "Graphics",
         "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Panda3D Prototypes",
-      "slug": "panda3d-prototypes",
-      "url": "https://jazhikho.itch.io/panda3d-prototypes",
-      "description": "Two prototype projects made with panda3d",
-      "cover_image": "",
-      "status": "Prototype",
-      "category": "",
-      "genre": "",
-      "made_with": [],
-      "tags": [
-        "Prototype"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
