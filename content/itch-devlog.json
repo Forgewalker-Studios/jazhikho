@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:14:21.489807+00:00",
+  "generated_at": "2026-11-23T23:52:18.041952+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -167,13 +167,13 @@
       "summary": "The Door Remembers, or Project Clanker as it was called during development, is my submission for Week 6 of One Game A Week, hosted by ForgeWalker Studios; first, I would like to..."
     },
     {
-      "project_title": "Around the Bend",
-      "project_slug": "around-the-bend",
-      "project_url": "https://jazhikho.itch.io/around-the-bend",
-      "title": "Around the Bend - Lessons learned",
-      "link": "https://jazhikho.itch.io/around-the-bend/devlog/1526386/around-the-bend-lessons-learned",
-      "published_at": "2026-05-17T19:57:12+00:00",
-      "summary": "I made Around the Bend for my own jam, the One Game a Week Jam, and this week\u2019s experiment was using Bitsy. It was an interesting challenge, and I will never use Bitsy again...."
+      "project_title": "Spellweaver",
+      "project_slug": "spellweaver",
+      "project_url": "https://jazhikho.itch.io/spellweaver",
+      "title": "So... what's up with this game?",
+      "link": "https://jazhikho.itch.io/spellweaver/devlog/1553960/so-whats-up-with-this-game",
+      "published_at": "2026-06-14T20:42:53+00:00",
+      "summary": "Spellweaver was a small game I made using Defold. The intent here was to learn the Defold engine a bit and how to use it, as I have other work I am doing with the engine. The..."
     },
     {
       "project_title": "Spud-Gotchi",
