@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:52:18.042398+00:00",
+  "generated_at": "2026-11-24T09:52:46.716038+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -82,6 +82,36 @@
       "updated_text": ""
     },
     {
+      "title": "Project Clanker",
+      "slug": "project-clanker",
+      "url": "https://jazhikho.itch.io/project-clanker",
+      "description": "Wake up as a small maintenance robot in a dead factory. A lonely sentient door asks you to restore its memory.",
+      "cover_image": "https://img.itch.zone/aW1nLzI4MDIzNDMxLnBuZw==/315x250%23c/6rE8Mr.png",
+      "status": "Prototype",
+      "category": "",
+      "genre": "Platformer",
+      "made_with": [
+        "Godot"
+      ],
+      "tags": [
+        "2D",
+        "Horror",
+        "Indie",
+        "Metroidvania",
+        "Multiple Endings",
+        "Narrative"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code",
+        "Graphics",
+        "Sounds",
+        "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Spellweaver",
       "slug": "spellweaver",
       "url": "https://jazhikho.itch.io/spellweaver",
@@ -107,6 +137,26 @@
         "Code",
         "Graphics",
         "Text"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Panda3D Prototypes",
+      "slug": "panda3d-prototypes",
+      "url": "https://jazhikho.itch.io/panda3d-prototypes",
+      "description": "Two prototype projects made with panda3d",
+      "cover_image": "",
+      "status": "Prototype",
+      "category": "",
+      "genre": "",
+      "made_with": [],
+      "tags": [
+        "Prototype"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
       ],
       "updated_at": "",
       "updated_text": ""
@@ -140,6 +190,31 @@
         "Sounds",
         "Text"
       ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
+      "title": "Around the Bend",
+      "slug": "around-the-bend",
+      "url": "https://jazhikho.itch.io/around-the-bend",
+      "description": "Paddle down the River Feral. Who do you trust? Are you ready to make it on your own?",
+      "cover_image": "https://img.itch.zone/aW1nLzI3MzIwNjYzLnBuZw==/315x250%23c/OSX%2F%2BU.png",
+      "status": "Released",
+      "category": "",
+      "genre": "Adventure",
+      "made_with": [
+        "bitsy"
+      ],
+      "tags": [
+        "Bitsy",
+        "Comedy",
+        "Multiple Endings",
+        "Narrative",
+        "No AI",
+        "Pixel Art",
+        "Singleplayer"
+      ],
+      "ai_disclosure": [],
       "updated_at": "",
       "updated_text": ""
     },
@@ -265,6 +340,33 @@
       "updated_text": ""
     },
     {
+      "title": "Relationship Overhead Tool",
+      "slug": "relationship-overhead-tool",
+      "url": "https://jazhikho.itch.io/relationship-overhead-tool",
+      "description": "A relationship simulation sandbox for measuring complexity overhead.",
+      "cover_image": "https://img.itch.zone/aW1nLzI2MzA2ODM3LnBuZw==/315x250%23c/w8pSEf.png",
+      "status": "Released",
+      "category": "Tool",
+      "genre": "Simulation",
+      "made_with": [],
+      "tags": [
+        "Drama",
+        "game-development",
+        "Narrative",
+        "relationship",
+        "Sandbox",
+        "storytelling",
+        "systems",
+        "tool"
+      ],
+      "ai_disclosure": [
+        "AI Assisted",
+        "Code"
+      ],
+      "updated_at": "",
+      "updated_text": ""
+    },
+    {
       "title": "Private Eye Pierce & The Ink Spill",
       "slug": "private-eye-pierce-the-ink-spill",
       "url": "https://jazhikho.itch.io/private-eye-pierce-the-ink-spill",
@@ -372,31 +474,6 @@
         "Godot",
         "library",
         "Low-poly",
-        "No AI"
-      ],
-      "ai_disclosure": [],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "WinterIsComing",
-      "slug": "winteriscoming",
-      "url": "https://jazhikho.itch.io/winteriscoming",
-      "description": "A frozen dragon statue abandoned in a snowy drift",
-      "cover_image": "https://img.itch.zone/aW1nLzI0NzkzMjI1LnBuZw==/315x250%23c/V99CY2.png",
-      "status": "Released",
-      "category": "Assets",
-      "genre": "",
-      "made_with": [
-        "Blender"
-      ],
-      "tags": [
-        "3D",
-        "Blender",
-        "Dragons",
-        "Fantasy",
-        "Modeling",
-        "Models",
         "No AI"
       ],
       "ai_disclosure": [],
