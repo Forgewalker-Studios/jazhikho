@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:40:20.884135+00:00",
+  "generated_at": "2026-11-26T08:15:24.435679+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "discovered_projects": [
     {
@@ -149,6 +149,15 @@
   ],
   "items": [
     {
+      "project_title": "Signal Rift",
+      "project_slug": "signal-rift",
+      "project_url": "https://jazhikho.itch.io/signal-rift",
+      "title": "Signal Rift Post Mortem",
+      "link": "https://jazhikho.itch.io/signal-rift/devlog/1567191/signal-rift-post-mortem",
+      "published_at": "2026-06-28T16:06:02+00:00",
+      "summary": "**Signal Rift \u2014 Postmortem ** *A 2D arcade space shooter built in Godot in about a week. Honest notes on jam DNA, scope, AI, assets, and why planning beat vibes. * **Where it..."
+    },
+    {
       "project_title": "Project Clanker",
       "project_slug": "project-clanker",
       "project_url": "https://jazhikho.itch.io/project-clanker",
@@ -158,31 +167,13 @@
       "summary": "The Door Remembers, or Project Clanker as it was called during development, is my submission for Week 6 of One Game A Week, hosted by ForgeWalker Studios; first, I would like to..."
     },
     {
-      "project_title": "Spellweaver",
-      "project_slug": "spellweaver",
-      "project_url": "https://jazhikho.itch.io/spellweaver",
-      "title": "So... what's up with this game?",
-      "link": "https://jazhikho.itch.io/spellweaver/devlog/1553960/so-whats-up-with-this-game",
-      "published_at": "2026-06-14T20:42:53+00:00",
-      "summary": "Spellweaver was a small game I made using Defold. The intent here was to learn the Defold engine a bit and how to use it, as I have other work I am doing with the engine. The..."
-    },
-    {
-      "project_title": "Spud-Gotchi",
-      "project_slug": "spud-gotchi",
-      "project_url": "https://jazhikho.itch.io/spud-gotchi",
-      "title": "Assessing Spud-Gotchi",
-      "link": "https://jazhikho.itch.io/spud-gotchi/devlog/1516234/assessing-spud-gotchi",
-      "published_at": "2026-05-06T22:58:08+00:00",
-      "summary": "Well, the Jam is over. Spud-Gotchi didn\u2019t perform terrible, but it didn\u2019t perform as well as others. I think part of this was based on the lack of votes, but removing that, the..."
-    },
-    {
-      "project_title": "Spud-Gotchi",
-      "project_slug": "spud-gotchi",
-      "project_url": "https://jazhikho.itch.io/spud-gotchi",
-      "title": "Game Jam Release: Spud-Gatchi",
-      "link": "https://jazhikho.itch.io/spud-gotchi/devlog/1509446/game-jam-release-spud-gatchi",
-      "published_at": "2026-05-03T20:55:01+00:00",
-      "summary": "As I near the end of my graduate degree, one of the goals I have in mind is to produce one game a week. To this, end, I have decided that, starting mid-may, I will be hosting and..."
+      "project_title": "Around the Bend",
+      "project_slug": "around-the-bend",
+      "project_url": "https://jazhikho.itch.io/around-the-bend",
+      "title": "Around the Bend - Lessons learned",
+      "link": "https://jazhikho.itch.io/around-the-bend/devlog/1526386/around-the-bend-lessons-learned",
+      "published_at": "2026-05-17T19:57:12+00:00",
+      "summary": "I made Around the Bend for my own jam, the One Game a Week Jam, and this week\u2019s experiment was using Bitsy. It was an interesting challenge, and I will never use Bitsy again...."
     },
     {
       "project_title": "StarGen",
@@ -255,6 +246,15 @@
       "link": "https://jazhikho.itch.io/stargen/devlog/1456772/v05-release",
       "published_at": "2026-03-13T15:36:28+00:00",
       "summary": "I\u2019m not sure what happened to the v0.4 version, but it was never released anywhere. I decided not to make a big deal about it and just go ahead and release 0.5 instead. This..."
+    },
+    {
+      "project_title": "Loot, Luck & Liability",
+      "project_slug": "loot-luck-liability",
+      "project_url": "https://jazhikho.itch.io/loot-luck-liability",
+      "title": "New Game! Announcing Loot, Luck, and Liability!",
+      "link": "https://jazhikho.itch.io/loot-luck-liability/devlog/1453882/new-game-announcing-loot-luck-and-liability",
+      "published_at": "2026-03-10T03:39:44+00:00",
+      "summary": "Announcing the release of Loot, Luck & Liability. This is a silly game that I made ~48 hours for St. Paddy\u2019s Roguelite Game Jam. Based on feedback, I will be updating this game..."
     }
   ]
 }
