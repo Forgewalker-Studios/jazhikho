@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:15:51.411353+00:00",
+  "generated_at": "2026-11-28T07:46:26.370140+00:00",
   "source_profile_url": "https://jazhikho.itch.io/",
   "projects": [
     {
@@ -303,37 +303,6 @@
       "ai_disclosure": [
         "AI Assisted",
         "Code",
-        "Text"
-      ],
-      "updated_at": "",
-      "updated_text": ""
-    },
-    {
-      "title": "Spud-Gotchi",
-      "slug": "spud-gotchi",
-      "url": "https://jazhikho.itch.io/spud-gotchi",
-      "description": "Potato is your friend. Potato is your ONLY friend.",
-      "cover_image": "https://img.itch.zone/aW1nLzI3MDU2MTg5LnBuZw==/315x250%23c/r5cOLm.png",
-      "status": "Released",
-      "category": "",
-      "genre": "Simulation",
-      "made_with": [
-        "Aseprite",
-        "Godot"
-      ],
-      "tags": [
-        "Cute",
-        "Dark Humor",
-        "Dating Sim",
-        "Godot",
-        "Pixel Art",
-        "potato",
-        "Retro"
-      ],
-      "ai_disclosure": [
-        "AI Assisted",
-        "Code",
-        "Sounds",
         "Text"
       ],
       "updated_at": "",
